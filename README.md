@@ -32,3 +32,10 @@ Translation Apps:
 https://www.textunited.com/
 https://crowdin.com/
 https://www.oneskyapp.com/
+
+
+Translation file merging:
+http://docs.translatehouse.org/projects/translate-toolkit/en/latest/index.html
+
+Design for i18n
+https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f
