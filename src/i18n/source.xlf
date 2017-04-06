@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="id" datatype="html">
+        <source>app works!</source>
+        <target/>
+        <note priority="1" from="description">decription</note>
+        <note priority="1" from="meaning">meaning</note>
+      </trans-unit>
+      <trans-unit id="10dc2df2f10acb09768f7a669aa0b6a494fab81d" datatype="html">
+        <source>Some text <x id="INTERPOLATION"/></source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="fae2fb99dee3c0410aeb5bf92a258abd3119a356" datatype="html">
+        <source>
+    You have: <x id="ICU"/>
+  </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="3fb4a32dcffa4a8261346a4bc89cfe945c55e836" datatype="html">
+        <source>{VAR_PLURAL, plural, =0 {no notes } =1 {one note } other {<x id="INTERPOLATION"/> notes } }</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="37ff612f75c6d148beeb905b801eb636d882a170" datatype="html">
+        <source>
+    I got it from <x id="ICU"/>
+  </source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="ab06372596beac162deb2ada6b8d70a28f724132" datatype="html">
+        <source>{VAR_SELECT, select, male {him} female {her} }</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
